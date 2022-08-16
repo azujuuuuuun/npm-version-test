@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/azujuuuuuun/npm-version-test/issues"
   },
-  "homepage": "https://github.com/azujuuuuuun/npm-version-test#readme"
+  "homepage": "https://github.com/azujuuuuuun/npm-version-test#readme",
+  "volta": {
+    "node": "16.17.0",
+    "npm": "8.17.0"
+  }
 }
